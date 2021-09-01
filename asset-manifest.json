@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/darksteel-converter/static/css/main.dd655ddf.chunk.css",
+    "main.js": "/darksteel-converter/static/js/main.d206de21.chunk.js",
+    "main.js.map": "/darksteel-converter/static/js/main.d206de21.chunk.js.map",
+    "runtime-main.js": "/darksteel-converter/static/js/runtime-main.0c47359d.js",
+    "runtime-main.js.map": "/darksteel-converter/static/js/runtime-main.0c47359d.js.map",
+    "static/js/2.287f93a5.chunk.js": "/darksteel-converter/static/js/2.287f93a5.chunk.js",
+    "static/js/2.287f93a5.chunk.js.map": "/darksteel-converter/static/js/2.287f93a5.chunk.js.map",
+    "index.html": "/darksteel-converter/index.html",
+    "static/css/main.dd655ddf.chunk.css.map": "/darksteel-converter/static/css/main.dd655ddf.chunk.css.map",
+    "static/js/2.287f93a5.chunk.js.LICENSE.txt": "/darksteel-converter/static/js/2.287f93a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c47359d.js",
+    "static/js/2.287f93a5.chunk.js",
+    "static/css/main.dd655ddf.chunk.css",
+    "static/js/main.d206de21.chunk.js"
+  ]
+}
