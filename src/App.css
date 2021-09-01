@@ -1,0 +1,68 @@
+.app {
+  background-color: #121214;
+}
+
+.converter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+
+  background-color: #121214;
+  color: white;
+}
+.darksteel img {
+  width: 80px;
+  height: 80px;
+}
+
+.card { 
+  background-color: #29292E;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  padding: 20px;
+  width: 500px;
+  height: 500px;
+}
+
+.card h1 {
+  font-family: 'Roboto Slab';
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.card input {
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+  box-sizing: border-box;
+  background-color: #1A1A1D;
+  border-radius: 3px;
+  border: 1px solid #DDD;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.06);
+  font-family: sans-serif;
+  font-size: 1em;
+  margin-right: 0;
+  margin-bottom: 0.75em;
+  padding: 0.5em 0.5em;
+  padding:1em;
+  width: 100%;
+  color: gray;
+}
+.card-result {
+margin-right: auto;
+margin-left:20px;
+}
+
+.card-input{
+  float:left;
+  margin-right:20px;
+}
+.card-input label{
+  display:block;
+}
